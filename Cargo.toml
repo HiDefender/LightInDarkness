@@ -1,0 +1,8 @@
+[package]
+name = "light_in_darkness"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+openrgb = "0.1.2"
+tokio = { version = "1.42.0", features = ["full"] }
